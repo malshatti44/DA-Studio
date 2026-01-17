@@ -1,0 +1,7 @@
+{
+  "name": "Product Studio AI",
+  "description": "A professional AI-powered tool to transform product photos into high-quality marketing assets, featuring image generation, smart editing, and market research grounding.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
